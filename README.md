@@ -10,3 +10,5 @@ This project is ideal for those working in network testing, QA automation, or De
 1- Create githup repo caontain .robot file
 2-jenkins work on your pc 
 3-add jenkins and robot plugin on jenkins 
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f9eb20ef-4394-44e1-b531-0234df9b1fdb" />
