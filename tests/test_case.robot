@@ -1,4 +1,3 @@
-
 *** Settings ***
 Library    OperatingSystem
 
